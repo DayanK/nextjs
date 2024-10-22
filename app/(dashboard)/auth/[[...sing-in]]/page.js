@@ -1,9 +1,9 @@
 import React from 'react'
 
 const SignInPage = ({ params }) => {
-    console.log("params", params)
+    console.log("sign-in paarams", params)
   return (
-    <h1>SignIn Page</h1>
+    <h1 className="text-7xl">SignInPage</h1>
   )
 }
 
